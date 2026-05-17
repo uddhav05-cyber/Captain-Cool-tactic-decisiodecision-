@@ -1,0 +1,6 @@
+{
+  "name": "Captain Cool",
+  "description": "A multi-agent IPL match strategist that uses Gemini-powered agents to analyze live matches and provide tactical insights in the style of legendary captains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
